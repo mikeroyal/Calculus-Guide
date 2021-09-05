@@ -84,7 +84,7 @@
    - Improper Integrals
 
 
-9. [Applications of the Integral](https://github.com/mikeroyal/Calculus-Guide#applcations-of-the-integral)
+9. [Applications of the Integral](https://github.com/mikeroyal/Calculus-Guide#applications-of-the-integral)
 
    - Areas and Volumes by Slices
    - Length of a Plane Curve
@@ -435,7 +435,7 @@ Physical Applications. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu
 Polar Coordinates - Rectangular. Source: [getcalc](https://getcalc.com/geometry-rectangle-polar-calculator.htm)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/132141506-cbf8ab20-8bdc-4ead-9725-0f109c0c8501.png">
+ <img src="https://user-images.githubusercontent.com/45159366/132142408-3f2b8920-6867-4cff-9c27-f70cec43473c.png">
   <br />
 </p>
 
