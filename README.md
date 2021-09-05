@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [Calculus Learning Resources](https://github.com/mikeroyal/Calculus-Guide#)
+1. [Calculus Learning Resources](https://github.com/mikeroyal/Calculus-Guide#calculus-learning-resources)
 
 2. [Introduction to Calculus](https://github.com/mikeroyal/Calculus-Guide#introduction-to-calculus)
 
@@ -75,7 +75,7 @@
    - Powers Instead of Exponentials
    - Hyperbolic Functions
 
-8. [Techniques of Integration](https://github.com/mikeroyal/Calculus-Guide#techniques-of-integraton)
+8. [Techniques of Integration](https://github.com/mikeroyal/Calculus-Guide#techniques-of-integration)
 
    - Integration by Parts
    - Trigonometric Integrals
@@ -84,7 +84,7 @@
    - Improper Integrals
 
 
-9. [Applications of the Integral](https://github.com/mikeroyal/Calculus-Guide#applcations-of-the-integrals)
+9. [Applications of the Integral](https://github.com/mikeroyal/Calculus-Guide#applcations-of-the-integral)
 
    - Areas and Volumes by Slices
    - Length of a Plane Curve
@@ -108,7 +108,7 @@
    - The Taylor Series for e^x, sin x, and cos x
    - Power Series
 
-12. [Vectors and Matrices](https://github.com/mikeroyal/Calculus-Guide#vector-and-matrices)
+12. [Vectors and Matrices](https://github.com/mikeroyal/Calculus-Guide#vectors-and-matrices)
 
    - Vectors and Dot Products
    - Planes and Projections
@@ -125,7 +125,7 @@
    - Polar Coordinates and Planetary Motion
 
 
-14. [Partial Derivatives](https://github.com/mikeroyal/Calculus-Guide#partial-derviatives)
+14. [Partial Derivatives](https://github.com/mikeroyal/Calculus-Guide#partial-derivatives)
 
    - Surface and Level Curves
    - Partial Derivatives
