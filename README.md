@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132140810-9aad1ff2-f5b9-4f68-963f-06fa30b04aa6.png">
   <br />
   Calculus Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132140811-a92ceeea-faa4-4953-a29e-25adc41ce9d9.png">
   <br />
 </p>
 
@@ -225,8 +225,6 @@
   <br />
 </p>
 
-Fund. Theorem of Calulus, Riemann Sums, and Net Change. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu/files/Integral%20Calculus%20Formula%20Sheet_0.pdf)
-
 
 # Derivatives
 [Back to the Top](https://github.com/mikeroyal/Calculus-Guide#table-of-contents)
@@ -246,7 +244,7 @@ Fund. Theorem of Calulus, Riemann Sums, and Net Change. Source: [OSU.edu](https:
 ### Continuous Functions
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132140821-1870bd8b-28db-4026-97b4-31dec590c732.png">
   <br />
 </p>
 
@@ -273,7 +271,7 @@ Derivative Rules. Source: [onlinemathlearning](https://www.onlinemathlearning.co
 ### The Mean Value Theorem and L'Hôpital's Rule
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132140823-a5ab549e-28f5-4f91-a28d-0ec4964b3ab5.png">
   <br />
 </p>
 
@@ -291,7 +289,7 @@ Derivatives and Limits. Source: [EEWeb](https://www.eeweb.com/tools/online-scien
 ### Inverses of Trigonometric Functions
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141393-a0ce6be9-cc37-43a8-ae1b-bbaedec64e13.png">
   <br />
 </p>
 
@@ -318,11 +316,18 @@ Chain Rule. Source: [onlinemathlearning](https://www.onlinemathlearning.com/chai
 ### Numerical Integration
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141396-ee0929de-5bf8-4620-a71d-e21f19e17dec.png">
   <br />
 </p>
 
 Properties of Integrals & Integration Rules. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu/files/Integral%20Calculus%20Formula%20Sheet_0.pdf)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/132140812-e5467311-aba5-41bb-ae9b-503fa3362116.png">
+  <br />
+</p>
+
+Fund. Theorem of Calulus, Riemann Sums, and Net Change. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu/files/Integral%20Calculus%20Formula%20Sheet_0.pdf)
 
 
 # Exponentials and Logarithms
@@ -341,7 +346,7 @@ Properties of Integrals & Integration Rules. Source: [OSU.edu](https://mslc.osu.
 ### Hyperbolic Functions
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141407-76cd6160-9c2a-4862-93cb-adcefdef3081.png">
   <br />
 </p>
 
@@ -361,14 +366,14 @@ Exponents and Logarithms. Source: [onlinemathlearning](https://www.onlinemathlea
 ### Improper Integrals
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141450-6d54da79-37fc-419a-b2bf-d339b6da3446.png">
   <br />
 </p>
 
 Techniques of Integration. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu/files/Integral%20Calculus%20Formula%20Sheet_0.pdf)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141455-2faf8c02-0201-4228-986e-1d49a5381d59.png">
   <br />
 </p>
 
@@ -390,21 +395,21 @@ Techniques of Integration Part 2. Source: [OSU.edu](https://mslc.osu.edu/sites/m
 ### Force, Work, and Energy
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141495-70fc0a00-8c3b-4c79-b75d-7a19da480b11.png">
   <br />
 </p>
 
 Surface Area of Revolution of Parametric Equations. Source: [YouTube](https://www.youtube.com/watch?v=USiKDtILhmc)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141496-c034c3a2-70a5-4258-a8e2-e9837f53fa88.png">
   <br />
 </p>
 
 Areas and Volumes. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu/files/Integral%20Calculus%20Formula%20Sheet_0.pdf)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141500-c42c32f6-aaa7-40a1-979a-921f3c2999c2.png">
   <br />
 </p>
 
@@ -422,14 +427,14 @@ Physical Applications. Source: [OSU.edu](https://mslc.osu.edu/sites/mslc.osu.edu
 ### Complex Numbers
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141505-d7fe6ddc-aa41-4d6b-8851-871efbf498fa.png">
   <br />
 </p>
 
 Polar Coordinates - Rectangular. Source: [getcalc](https://getcalc.com/geometry-rectangle-polar-calculator.htm)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141506-cbf8ab20-8bdc-4ead-9725-0f109c0c8501.png">
   <br />
 </p>
 
@@ -449,21 +454,21 @@ Area in Polar Coordinates. Source: [Calcworkshop](https://calcworkshop.com/polar
 ### Power Series
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141539-f05442a0-cfc8-427d-8419-90ca8cb40e3a.png">
   <br />
 </p>
 
 Geometric Series. Source: [onlinemathlearning](https://www.onlinemathlearning.com/geometric-series.html)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141542-30b7f8d9-ab94-4632-9949-eeecf9f5e364.png">
   <br />
 </p>
 
 Taylor and MacLaurin Series. Source: [onlinemathlearning](https://www.onlinemathlearning.com/taylor-maclaurin-series.html)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141540-cf6c84d9-466d-40b2-8b2a-df58f339fc33.png">
   <br />
 </p>
 
@@ -483,7 +488,7 @@ Power Series. Source: [onlinemathlearning](https://www.onlinemathlearning.com)
 ### Linear Algebra in Three Dimensions
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141578-81028690-d33e-4b07-8944-754e6e4ec630.png">
   <br />
 </p>
 
@@ -502,7 +507,7 @@ Scalar, Vector, Matrix. Source: [mathisfun](http://www.mathsisfun.com/algebra/sc
 ### Polar Coordinates and Planetary Motion
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141580-86d71ab4-8180-472d-8fd8-281d6e996d9b.png">
   <br />
 </p>
 
@@ -526,7 +531,7 @@ Position Vectors. Source [YouTube](http://www.youtube.com/watch?v=v3uhB6LhXis)
 ### Constraints and Lagrange Multipliers
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141617-de61fe77-e536-4e6a-a9dd-4c4c30f70e01.png">
   <br />
 </p>
 
@@ -546,14 +551,14 @@ Chain Rule With Partial Derivatives. Source: [YouTube](https://www.youtube.com/w
 ### Cylindrical and Spherical Coordinates
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141623-018c8a05-3a0e-428a-afa2-7b51a8f85891.png">
   <br />
 </p>
 
 Double Integrals. Source: [YouTube](https://www.youtube.com/watch?v=BJ_0FURo9RE)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141624-b27fb107-e899-4f3b-9ac7-310585196a81.png">
   <br />
 </p>
 
@@ -575,7 +580,7 @@ Triple Integrals. Source: [YouTube](https://www.youtube.com/watch?v=7iy83x8bv6o)
 ### Stokes' Theorem and the Curl of F
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141648-66e77401-bda8-4165-99ee-1b4429682088.png">
   <br />
 </p>
 Vector Calculus Forumlas. Source: [vectorified](https://vectorified.com/vector-calculus-formulas)
