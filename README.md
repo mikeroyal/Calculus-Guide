@@ -17,140 +17,140 @@
 
 1. [Calculus Learning Resources](https://github.com/mikeroyal/Calculus-Guide#)
 
-2. [Introduction to Calculus](https://github.com/mikeroyal/Calculus-Guide#)
+2. [Introduction to Calculus](https://github.com/mikeroyal/Calculus-Guide#introduction-to-calculus)
 
- - Velocity and Distance
- - Calculus Without Limits
- - The Velocity at an Instant
- - Circular Motion
- - Trigonometry Review
- - Thousand Points of Light
- - Computing in Calculus
+   - Velocity and Distance
+   - Calculus Without Limits
+   - The Velocity at an Instant
+   - Circular Motion
+   - Trigonometry Review
+   - Thousand Points of Light
+   - Computing in Calculus
 
-3. [Derivatives](https://github.com/mikeroyal/Calculus-Guide#)
+3. [Derivatives](https://github.com/mikeroyal/Calculus-Guide#derivatives)
 
- - The Derivative of a Function
- - Powers and Polynomials
- - The Slope and the Tangent Line
- - Derivative of the Sine and Cosine
- - Product and Quotient and Power Rules
- - Limits
- - Continuous Functions
+   - The Derivative of a Function
+   - Powers and Polynomials
+   - The Slope and the Tangent Line
+   - Derivative of the Sine and Cosine
+   - Product and Quotient and Power Rules
+   - Limits
+   - Continuous Functions
 
-4. [Applications of the Derivative](https://github.com/mikeroyal/Calculus-Guide#)
+4. [Applications of the Derivative](https://github.com/mikeroyal/Calculus-Guide#applications-of-the-derivative)
 
- - Linear Approximation
- - Maximum and Minimum Problems
- - Second Derivatives: Minimum vs. Maximum
- - Graphs
- - Ellipses, Parabolas, and Hyperbolas
- - Iterations x,+ ,= F(x,)
- - Newton's Method and Chaos
- - Mean Value Theorem and L 'Hôpital's Rule
+   - Linear Approximation
+   - Maximum and Minimum Problems
+   - Second Derivatives: Minimum vs. Maximum
+   - Graphs
+   - Ellipses, Parabolas, and Hyperbolas
+   - Iterations x,+ ,= F(x,)
+   - Newton's Method and Chaos
+   - Mean Value Theorem and L 'Hôpital's Rule
 
-5. [The Chain Rule](https://github.com/mikeroyal/Calculus-Guide#)
+5. [The Chain Rule](https://github.com/mikeroyal/Calculus-Guide#the-chain-rule)
 
- - Derivatives by the Charin Rule
- - Implicit Differentiation and Related Rates
- - Inverse Functions and Their Derivatives
- - Inverses of Trigonometric Functions
+   - Derivatives by the Charin Rule
+   - Implicit Differentiation and Related Rates
+   - Inverse Functions and Their Derivatives
+   - Inverses of Trigonometric Functions
 
-6. [Integrals](https://github.com/mikeroyal/Calculus-Guide#)
+6. [Integrals](https://github.com/mikeroyal/Calculus-Guide#integrals)
 
- - What is an Integral
- - Antiderivatives
- - Summation vs. Integration
- - Indefinite Integrals and Substitutions
- - The Definite Integral
- - Properties of the Integral and the Average Value
- - The Fundamental Theorem and Its Consequences
- - Numerical Integration
+   - What is an Integral
+   - Antiderivatives
+   - Summation vs. Integration
+   - Indefinite Integrals and Substitutions
+   - The Definite Integral
+   - Properties of the Integral and the Average Value
+   - The Fundamental Theorem and Its Consequences
+   - Numerical Integration
 
-7. [Exponentials and Logarithms](https://github.com/mikeroyal/Calculus-Guide#)
+7. [Exponentials and Logarithms](https://github.com/mikeroyal/Calculus-Guide#exponentials-and-logarithms)
 
- - The Exponential e^x
- - Growth and Decay in Science and Economics
- - Logarithms
- - Separable Equations Including the Logistic Equation
- - Powers Instead of Exponentials
- - Hyperbolic Functions
+   - The Exponential e^x
+   - Growth and Decay in Science and Economics
+   - Logarithms
+   - Separable Equations Including the Logistic Equation
+   - Powers Instead of Exponentials
+   - Hyperbolic Functions
 
-8. [Techniques of Integration](https://github.com/mikeroyal/Calculus-Guide#)
+8. [Techniques of Integration](https://github.com/mikeroyal/Calculus-Guide#techniques-of-integraton)
 
- - Integration by Parts
- - Trigonometric Integrals
- - Trigonometric Substitutions
- - Partial Fractions
- - Improper Integrals
-
-
-9. [Applications of the Integral](https://github.com/mikeroyal/Calculus-Guide#)
-
- - Areas and Volumes by Slices
- - Length of a Plane Curve
- - Area of a Surface of Revolution
- - Probability and Calculus
- - Masses and Moments
- - Force, Work, and Energy
-
-10. [Polar Coordinates and Complex Numbers](https://github.com/mikeroyal/Calculus-Guide#)
-
- - Polar Coordinates
- - Polar Equations and Graphs
- - Slope, Length, and Area for Polar Curves
- - Complex Numbers
-
-11. [Infinite Series](https://github.com/mikeroyal/Calculus-Guide#)
-
- - The Geometric Series
- - Convergence Tests: Positive Series
- - Convergence Tests: All Series
- - The Taylor Series for e^x, sin x, and cos x
- - Power Series
-
-12. [Vectors and Matrices](https://github.com/mikeroyal/Calculus-Guide#)
-
- - Vectors and Dot Products
- - Planes and Projections
- - Cross Products and Determinants
- - Matrices and Linear Equations
- - Linear Algebra in Three Dimensions
+   - Integration by Parts
+   - Trigonometric Integrals
+   - Trigonometric Substitutions
+   - Partial Fractions
+   - Improper Integrals
 
 
-13. [Motion along a Curve](https://github.com/mikeroyal/Calculus-Guide#)
+9. [Applications of the Integral](https://github.com/mikeroyal/Calculus-Guide#applcations-of-the-integrals)
 
- - The Position Vector
- - Plane Motion: Projectiles and Cycloids
- - Tangent Vector and Normal Vector
- - Polar Coordinates and Planetary Motion
+   - Areas and Volumes by Slices
+   - Length of a Plane Curve
+   - Area of a Surface of Revolution
+   - Probability and Calculus
+   - Masses and Moments
+   - Force, Work, and Energy
+
+10. [Polar Coordinates and Complex Numbers](https://github.com/mikeroyal/Calculus-Guide#polar-coordinates-and-complex-numbers)
+
+   - Polar Coordinates
+   - Polar Equations and Graphs
+   - Slope, Length, and Area for Polar Curves
+   - Complex Numbers
+
+11. [Infinite Series](https://github.com/mikeroyal/Calculus-Guide#infinite-series)
+
+   - The Geometric Series
+   - Convergence Tests: Positive Series
+   - Convergence Tests: All Series
+   - The Taylor Series for e^x, sin x, and cos x
+   - Power Series
+
+12. [Vectors and Matrices](https://github.com/mikeroyal/Calculus-Guide#vector-and-matrices)
+
+   - Vectors and Dot Products
+   - Planes and Projections
+   - Cross Products and Determinants
+   - Matrices and Linear Equations
+   - Linear Algebra in Three Dimensions
 
 
-14. [Partial Derivatives](https://github.com/mikeroyal/Calculus-Guide#)
+13. [Motion along a Curve](https://github.com/mikeroyal/Calculus-Guide#motion-along-a-curve)
 
- - Surface and Level Curves
- - Partial Derivatives
- - Tangent Planes and Linear Approximations
- - Directional Derivatives and Gradients
- - The Chain Rule
- - Maxima, Minima, and Saddle Points
- - Constraints and Lagrange Multipliers
+   - The Position Vector
+   - Plane Motion: Projectiles and Cycloids
+   - Tangent Vector and Normal Vector
+   - Polar Coordinates and Planetary Motion
 
 
-15. [Multiple Integrals](https://github.com/mikeroyal/Calculus-Guide#)
+14. [Partial Derivatives](https://github.com/mikeroyal/Calculus-Guide#partial-derviatives)
 
- - Double Integrals
- - Changing to Better Coordinates
- - Triple Integrals
- - Cylindrical and Spherical Coordinates
+   - Surface and Level Curves
+   - Partial Derivatives
+   - Tangent Planes and Linear Approximations
+   - Directional Derivatives and Gradients
+   - The Chain Rule
+   - Maxima, Minima, and Saddle Points
+   - Constraints and Lagrange Multipliers
 
-16. [Vector Calculus](https://github.com/mikeroyal/Calculus-Guide#)
 
- - Vector Fields
- - Line Integrals
- - Green's Theorem
- - Surface Integrals
- - The Divergence Theorem
- - Stokes' Theorem and the Curl of F
+15. [Multiple Integrals](https://github.com/mikeroyal/Calculus-Guide#multiple-integrals)
+
+   - Double Integrals
+   - Changing to Better Coordinates
+   - Triple Integrals
+   - Cylindrical and Spherical Coordinates
+
+16. [Vector Calculus](https://github.com/mikeroyal/Calculus-Guide#vector-calculus)
+
+   - Vector Fields
+   - Line Integrals
+   - Green's Theorem
+   - Surface Integrals
+   - The Divergence Theorem
+   - Stokes' Theorem and the Curl of F
 
 # Calculus Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Calculus-Guide#table-of-contents)
@@ -221,10 +221,11 @@
 ### Computing in Calculus
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132141978-dcb03fe5-ab48-43e7-ad30-c44410635847.png">
   <br />
 </p>
 
+Distance and Velocity Formulas.
 
 # Derivatives
 [Back to the Top](https://github.com/mikeroyal/Calculus-Guide#table-of-contents)
@@ -316,7 +317,7 @@ Chain Rule. Source: [onlinemathlearning](https://www.onlinemathlearning.com/chai
 ### Numerical Integration
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/132141396-ee0929de-5bf8-4620-a71d-e21f19e17dec.png">
+ <img src="https://user-images.githubusercontent.com/45159366/132141982-cf89ede1-7939-453a-9406-f6989323d734.png">
   <br />
 </p>
 
@@ -564,6 +565,13 @@ Double Integrals. Source: [YouTube](https://www.youtube.com/watch?v=BJ_0FURo9RE)
 
 Triple Integrals. Source: [YouTube](https://www.youtube.com/watch?v=7iy83x8bv6o)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/132142124-27571c7f-1565-4f8f-8445-d965331e7828.png">
+  <br />
+</p>
+
+Cylindrical and Spherical Coordinates.
+
 # Vector Calculus
 [Back to the Top](https://github.com/mikeroyal/Calculus-Guide#table-of-contents)
 
@@ -583,6 +591,7 @@ Triple Integrals. Source: [YouTube](https://www.youtube.com/watch?v=7iy83x8bv6o)
  <img src="https://user-images.githubusercontent.com/45159366/132141648-66e77401-bda8-4165-99ee-1b4429682088.png">
   <br />
 </p>
+
 Vector Calculus Forumlas. Source: [vectorified](https://vectorified.com/vector-calculus-formulas)
 
 
